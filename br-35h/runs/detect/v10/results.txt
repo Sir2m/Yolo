@@ -1,0 +1,7 @@
+{'metrics/precision(B)': np.float64(0.842346811976379),
+'metrics/recall(B)': np.float64(0.79936830082761),
+'metrics/mAP50(B)': np.float64(0.8785867991516187),
+'metrics/mAP50-95(B)': np.float64(0.6256594023677182),
+'fitness': np.float64(0.6509521420461084)
+'runtime': '112m 47s'
+}
