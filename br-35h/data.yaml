@@ -1,0 +1,9 @@
+
+train: D:/Project Programes/pbl/kaggle/working/Br-35H-Mask-RCNN/train
+val: D:/Project Programes/pbl/kaggle/working/Br-35H-Mask-RCNN/test
+
+# number of classes
+nc: 2
+
+# class names
+names: ['not' , tumor']
